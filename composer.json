@@ -1,0 +1,16 @@
+{
+    "name": "farrokh/cms",
+    "description": "a cms package on first project",
+    "autoload": {
+        "psr-4": {
+            "Farrokh\\Cms\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "farrokhghayyem",
+            "email": "farrokhghayyem@gmail.com"
+        }
+    ],
+    "require": {}
+}
